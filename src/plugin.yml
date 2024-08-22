@@ -1,0 +1,12 @@
+main: ch.bmk.plugin.main.Main
+name: VaroMainPlugin
+version: v1.0
+author: bmk
+
+commands:
+  cc:
+   description: Cleart den Chat.
+  gm:
+   description: Ändert deinen GameMode.
+  start:
+   description: Startet Varo!.
